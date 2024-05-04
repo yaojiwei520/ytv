@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1
+tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"tvg-id="1"tvg-name="北京卫视"group-title="卫视",北京卫视
+http://39.134.246.146:80/wh7f454c46tw73494623_-1437053061/000000001000/1000000001000017156/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"tvg-id="2'tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://39.134.246.142/wh7f454c46tw658149783_2054431823/000000001000/1000000001000004684/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"tvg-id="3"tvg-name="安徽卫视" group-title="卫视",安徽卫视
+http://39.134.246.131:80/wh7f454c46tw4246666773_-459749762/000000001000/1000000001000020780/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"tvg-id="4"tvg-name="重庆卫视"group-title="卫视",重庆卫视
+http://39.134.246.144:80/wh7f454c46tw2181505661_1609112978/000000001000/1000000002000018937/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="5"tvg-name="湖南卫视"group-title="卫视",湖南卫视
+http://39.134.246.145:80/wh7f454c46tw539867098_-357849461/000000001000/1000000001000009115/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"tvg-id="6"tvg-name="东方卫视"group-title="卫视",东方卫视
+http://39.134.246.143:80/wh7f454c46tw4206762182_-936224352/000000001000/1000000001000030202/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="7"tvg-name="浙江卫视"group-title="卫视",浙江卫视视
+http://39.134.246.132:80/wh7f454c46tw611840634_-1847862552/000000001000/1000000001000009806/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png”tvg-id="8"tvg-name="天津卫视"group-title="卫视",天津卫视,
+http://39.134.246.141:80/wh7f454c46tw141653859_874003688/000000001000/1000000001000000831/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="8"tvg-name="辽宁卫视"group-title="卫视",辽宁卫视
+http://39.134.246.140:80/wh7f454c46tw191957100_-251047030/000000001000/1000000002000024033/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="9"tvg-name="江西卫视" group-title="卫视",江西卫视
+http://39.134.246.134:80/wh7f454c46tw229524214_1341592687/000000001000/1000000001000013731/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="10"tvg-name="黑龙江卫视"group-title="卫视",黑龙江卫视
+http://39.134.246.147:80/wh7f454c46tw284437129_-1384967033/000000001000/1000000001000009082/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tva-id="11"tvg-name="山东卫视"group-title="卫视",山东卫视
+http://39.134.246.134:80/wh7f454c46tw325884651_1670707669/000000001000/1000000001000012807/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="12'tvg-name="云南卫视"group-title="卫视",云南卫视
+http://39.134.246.143:80/wh7f454c46tw371810306_-706784913/000000001000/1000000002000024694/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="13"tvg-name="四川卫视"group-title="卫视",四川卫视
+http://39.134.246.85:80/wh7f454c46tw414183400_-2130424649/000000001000/1000000002000016825/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="14"tvg-name=" 河北卫视"group-title=" 卫视"，河南卫视
+http://39.134.246.80:80/wh7f454c46tw1671395300_1232210803/000000001000/7304224304099543804/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="15"tvg-name="广东卫视"group-title=" 卫视"，广东卫视
+http://39.134.246.146:80/wh7f454c46tw1713908636_-1855720960/000000001000/1000000001000028357/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png”tvg-id="16"tvg-name="深圳卫视"group-title="卫视",深圳卫视
+http://39.134.246.140:80/wh7f454c46tw1772130501_-745191194/000000001000/1000000001000011645/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png”tvg-id="17"tvg-name="湖北卫视"group-title="卫视",湖北卫视
+http://39.134.246.136:80/wh7f454c46tw1811872012_1882171282/000000001000/1000000001000010355/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="18"tvg-name="东南卫视"group-title="卫视",东南卫视
+http://39.134.246.144:80/wh7f454c46tw1853973402_1628763240/000000001000/1000000002000009263/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="19"tvg-name="CCTV2"group-title=" 央视",CCTV2
+http://39.134.246.145:80/wh7f454c46tw3359402476_-14003855/000000001000/1000000001000021973/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="20"tvg-name="CCTV3"group-title=" 央视",CCTV3
+http://39.134.246.137:80/wh7f454c46tw3401166284_-1037566048/000000001000/1000000001000011218/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png”tvg-id="21"tvg-name="CCTV4"group-title=" 央视",CCTV4
+http://39.134.246.135:80/wh7f454c46tw3493503745_1402205065/000000001000/1000000002000031664/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="22"tvg-name="CCTV5"group-title=" 央视 ",CCTV5
+http://39.134.246.130/wh7f454c46tw3541986506_-1652100573/000000001000/1000000001000004794/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="23"tvg-name="CCTV6"group-title=" 央视 ",CCTV6
+http://39.134.246.131:80/wh7f454c46tw3770643471_-177234280/000000001000/1000000001000016466/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png”tvg-id="24'tvg-name="CCTV7"group-title=" 央视",CCTV7
+http://39.134.246.133:80/wh7f454c46tw3902690953_709543140/000000001000/1000000001000017218/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png”tvg-id="25"tvg-name="CCTV8" group-title="央视"，CCTV8
+http://39.134.246.138/wh7f454c46tw3929228991_422533032/000000001000/1000000001000003736/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="26'tvg-name="CCTV9"group-title=" 央视",CCTV9
+http://39.134.246.146:80/wh7f454c46tw3949017349399831044/000000001000/1000000001000028286/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="27"tvg-name="CCTV10" group-title="央视"，CCTV10
+http://39.134.246.140:80/wh7f454c46tw3967275781_1534843297/000000001000/1000000001000026367/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="28"tvg-name="CCTV12"group-title=" 央视",CCTV12
+http://39.134.246.146:80/wh7f454c46tw4010715664_-1603279925/000000001000/1000000001000001640/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="29"tvg-name="CCTV13"group-title=" 央视",CCTV13
+http://39.134.246.137/wh7f454c46tw4039862274_-1124216761/000000001000/1000000002000021303/1.m3u8
+#EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="30"tvg-name="CCTV14"group-title=" 央视 ",CCTV14
+http://39.134.246.147:80/wh7f454c46tw2077067469_548647814/000000001000/1000000001000021349/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png”tvg-id="31"tvg-name="CCTV15"group-title=" 央视 ",CCTV15
+http://39.134.246.137:80/wh7f454c46tw4062283243_-76179979/000000001000/1000000002000008163/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="32'tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
+http://39.134.65.162/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png'tvg-id="33" tvg-name="卡酷动画"group-title="卫视",卡酷动画
+http://39.134.246.74:80/wh7f454c46tw2913402308_1303595762/180000001002/00000001000000000090000000215608/main.m3u8
