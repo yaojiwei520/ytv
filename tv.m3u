@@ -11,13 +11,13 @@ http://39.134.246.144:80/wh7f454c46tw2181505661_1609112978/000000001000/10000000
 http://39.134.246.145:80/wh7f454c46tw539867098_-357849461/000000001000/1000000001000009115/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="卫视",东方卫视
 http://39.134.246.143:80/wh7f454c46tw4206762182_-936224352/000000001000/1000000001000030202/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="7" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://39.134.246.132:80/wh7f454c46tw611840634_-1847862552/000000001000/1000000001000009806/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="8" tvg-name="天津卫视" group-title="卫视",天津卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-id="39" tvg-name="天津卫视" group-title="卫视",天津卫视
 http://39.134.246.141:80/wh7f454c46tw141653859_874003688/000000001000/1000000001000000831/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="8" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="36" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
 http://39.134.246.140:80/wh7f454c46tw191957100_-251047030/000000001000/1000000002000024033/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="9" tvg-name="江西卫视" group-title="卫视",江西卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-id="50" tvg-name="江西卫视" group-title="卫视",江西卫视
 http://39.134.246.134:80/wh7f454c46tw229524214_1341592687/000000001000/1000000001000013731/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="10" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://39.134.246.147:80/wh7f454c46tw284437129_-1384967033/000000001000/1000000001000009082/1.m3u8
