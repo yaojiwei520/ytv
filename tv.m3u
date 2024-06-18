@@ -37,8 +37,6 @@ http://39.134.246.140:80/wh7f454c46tw1772130501_-745191194/000000001000/10000000
 http://39.134.246.136:80/wh7f454c46tw1811872012_1882171282/000000001000/1000000001000010355/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="18" tvg-name="东南卫视" group-title="卫视",东南卫视
 http://39.134.246.144:80/wh7f454c46tw1853973402_1628763240/000000001000/1000000002000009263/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视台",CCTV-1 综合
-http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"tvg-id="19"tvg-name="CCTV2"group-title=" 央视",CCTV2
 http://39.134.246.145:80/wh7f454c46tw3359402476_-14003855/000000001000/1000000001000021973/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"tvg-id="20"tvg-name="CCTV3"group-title=" 央视",CCTV3
