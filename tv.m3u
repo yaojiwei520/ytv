@@ -19,15 +19,15 @@ http://39.134.246.141:80/wh7f454c46tw141653859_874003688/000000001000/1000000001
 http://39.134.246.140:80/wh7f454c46tw191957100_-251047030/000000001000/1000000002000024033/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-id="50" tvg-name="江西卫视" group-title="卫视",江西卫视
 http://39.134.246.134:80/wh7f454c46tw229524214_1341592687/000000001000/1000000001000013731/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="10" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjian.png" tvg-id="10" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://39.134.246.147:80/wh7f454c46tw284437129_-1384967033/000000001000/1000000001000009082/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="11" tvg-name="山东卫视" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-id="11" tvg-name="山东卫视" group-title="卫视",山东卫视
 http://39.134.246.134:80/wh7f454c46tw325884651_1670707669/000000001000/1000000001000012807/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="12" tvg-name="云南卫视" group-title="卫视",云南卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-id="12" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://39.134.246.143:80/wh7f454c46tw371810306_-706784913/000000001000/1000000002000024694/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="13" tvg-name="四川卫视" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuang.png" tvg-id="13" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://39.134.246.85:80/wh7f454c46tw414183400_-2130424649/000000001000/1000000002000016825/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="14" tvg-name="河北卫视" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-id="14" tvg-name="河北卫视" group-title="卫视",河南卫视
 http://39.134.246.80:80/wh7f454c46tw1671395300_1232210803/000000001000/7304224304099543804/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="15" tvg-name="广东卫视" group-title="卫视",广东卫视
 http://39.134.246.146:80/wh7f454c46tw1713908636_-1855720960/000000001000/1000000001000028357/1.m3u8
