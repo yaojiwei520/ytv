@@ -37,10 +37,12 @@ http://39.134.246.140:80/wh7f454c46tw1772130501_-745191194/000000001000/10000000
 http://39.134.246.136:80/wh7f454c46tw1811872012_1882171282/000000001000/1000000001000010355/1.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://39.134.246.144:80/wh7f454c46tw1853973402_1628763240/000000001000/1000000002000009263/1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://39.134.65.162/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="其他",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png" group-title="其他",卡酷动画
 http://39.134.246.74:80/wh7f454c46tw2913402308_1303595762/180000001002/00000001000000000090000000215608/main.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWVkNWU3MjJmYjgwZjAyMmUyN2Q5NmQyNTJjZDNhYTA3JmVzPTE3MTk0ODc5MTEmdXVpZD0yZjgzZGZkNzE0NGY1ZTg1MmY4NzY2ZDFiOTMxZTJjMy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
 http://39.134.246.145:80/wh7f454c46tw3359402476_-14003855/000000001000/1000000001000021973/1.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
