@@ -163,26 +163,6 @@ http://101.83.112.103:4022/udp/239.45.1.251:5140
 http://101.83.112.103:4022/udp/239.45.3.207:5140
 #EXTINF:-1,tvg-id="东方购物-4HD" tvg-name="东方购物-4HD" tvg-logo="https://epg.112114.xyz/logo/东方购物4.png" group-title="其他",东方购物-4HD
 http://101.83.112.103:4022/udp/239.45.3.208:5140
-#EXTINF:-1,tvg-id="三年级" tvg-name="三年级" tvg-logo="https://epg.112114.xyz/logo/三年级.png" group-title="其他",三年级
-http://101.83.112.103:4022/udp/239.45.1.30:5140
-#EXTINF:-1,tvg-id="四年级" tvg-name="四年级" tvg-logo="https://epg.112114.xyz/logo/四年级.png" group-title="其他",四年级
-http://101.83.112.103:4022/udp/239.45.1.31:5140
-#EXTINF:-1,tvg-id="五年级" tvg-name="五年级" tvg-logo="https://epg.112114.xyz/logo/五年级.png" group-title="其他",五年级
-http://101.83.112.103:4022/udp/239.45.1.32:5140
-#EXTINF:-1,tvg-id="六年级" tvg-name="六年级" tvg-logo="https://epg.112114.xyz/logo/六年级.png" group-title="其他",六年级
-http://101.83.112.103:4022/udp/239.45.1.33:5140
-#EXTINF:-1,tvg-id="七年级" tvg-name="七年级" tvg-logo="https://epg.112114.xyz/logo/七年级.png" group-title="其他",七年级
-http://101.83.112.103:4022/udp/239.45.1.34:5140
-#EXTINF:-1,tvg-id="八年级" tvg-name="八年级" tvg-logo="https://epg.112114.xyz/logo/八年级.png" group-title="其他",八年级
-http://101.83.112.103:4022/udp/239.45.1.35:5140
-#EXTINF:-1,tvg-id="九年级" tvg-name="九年级" tvg-logo="https://epg.112114.xyz/logo/九年级.png" group-title="其他",九年级
-http://101.83.112.103:4022/udp/239.45.1.36:5140
-#EXTINF:-1,tvg-id="高一年级" tvg-name="高一年级" tvg-logo="https://epg.112114.xyz/logo/高一年级.png" group-title="其他",高一年级
-http://101.83.112.103:4022/udp/239.45.1.37:5140
-#EXTINF:-1,tvg-id="高二年级" tvg-name="高二年级" tvg-logo="https://epg.112114.xyz/logo/高二年级.png" group-title="其他",高二年级
-http://101.83.112.103:4022/udp/239.45.1.38:5140
-#EXTINF:-1,tvg-id="高三年级" tvg-name="高三年级" tvg-logo="https://epg.112114.xyz/logo/高三年级.png" group-title="其他",高三年级
-http://101.83.112.103:4022/udp/239.45.1.39:5140
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://218.80.110.51:4022/udp/239.45.3.209:5140
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
