@@ -213,3 +213,5 @@ http://218.80.110.51:4022/udp/239.45.0.14:5140
 http://218.80.110.51:4022/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://epg.112114.xyz/logo/百事通4K纪实.png" group-title="其他",百事通4K纪实
 http://218.80.110.51:4022/udp/239.45.1.10:5140
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://39.134.246.144:80/wh7f454c46tw3597054095_941670053/000000001000/1000000001000020505/1.m3u8
