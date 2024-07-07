@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南卫视HD
+http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.132:8012
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南卫视
+http://171.8.170.131:8800/rtp/239.16.20.72:10720
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南卫视高清
+http://118.114.121.90:4022/udp/239.93.0.88:5140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="湖南卫视",湖南卫视FHD
+http://118.254.157.12:8888/udp/239.76.245.115:1234
