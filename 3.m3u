@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南金鹰卡通
+http://171.8.237.68:8800/rtp/239.16.20.104:11040
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",金鹰卡通
+http://125.104.232.79:9999/rtp/233.50.201.73:5140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="金鹰卡通",金鹰卡通FHD
+http://175.10.75.211:4022/udp/239.76.245.120:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="金鹰卡通",金鹰卡通HD
+http://175.10.75.211:4022/udp/239.76.252.120:9000
