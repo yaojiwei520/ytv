@@ -1,15 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="南电信",凤凰中文HD
-http://118.254.201.247:8888/udp/239.76.253.135:9000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="南电信",凤凰资讯HD
-http://118.254.201.247:8888/udp/239.76.253.134:9000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="南电信",湖南卫视FHD
-http://118.254.201.247:8888/udp/239.76.245.115:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="南电信",湖南经视FHD
-http://118.254.201.247:8888/udp/239.76.245.116:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="南电信",湖南都市FHD
-http://118.254.201.247:8888/udp/239.76.245.117:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="南电信",湖南电视剧FHD
-http://118.254.201.247:8888/udp/239.76.245.118:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="南电信",湖南电影FHD
-http://118.254.201.247:8888/udp/239.76.245.119:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文HD
+http://118.254.200.62:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰资讯HD
+http://118.254.200.62:8888/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南卫视FHD
+http://118.254.200.62:8888/udp/239.76.245.115:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南经视FHD
+http://118.254.200.62:8888/udp/239.76.245.116:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南都市FHD
+http://118.254.200.62:8888/udp/239.76.245.117:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南电视剧FHD
+http://118.254.200.62:8888/udp/239.76.245.118:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南电影FHD
+http://118.254.200.62:8888/udp/239.76.245.119:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南娱乐FHD
+http://118.254.200.62:8888/udp/239.76.245.121:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南国际FHD
+http://118.254.200.62:8888/udp/239.76.245.124:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南公共FHD
+http://118.254.200.62:8888/udp/239.76.245.123:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV1HD
+http://118.254.200.62:8888/udp/239.76.246.151:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV2HD
+http://118.254.200.62:8888/udp/239.76.246.152:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV3HD
+http://118.254.200.62:8888/udp/239.76.246.153:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV4HD
+http://118.254.200.62:8888/udp/239.76.246.154:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV5HD
+http://118.254.200.62:8888/udp/239.76.246.155:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV5+hd
+http://118.254.200.62:8888/udp/239.76.246.168:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV6HD
+http://118.254.200.62:8888/udp/239.76.246.156:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV7HD
+http://118.254.200.62:8888/udp/239.76.246.157:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV8HD
+http://118.254.200.62:8888/udp/239.76.246.158:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV9HD
+http://118.254.200.62:8888/udp/239.76.246.159:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV10HD
+http://118.254.200.62:8888/udp/239.76.246.160:1234
