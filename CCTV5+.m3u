@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CTV5+高清
-http://110.178.52.60:8082/udp/239.1.1.12:8012
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV5+高清
-http://223.10.34.11:8085/udp/239.1.1.12:8012
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV5+
-http://125.104.232.79:9999/rtp/233.50.201.220:5140
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV5+",CCTV5+hd
-http://118.254.157.12:8888/udp/239.76.246.168:1234
