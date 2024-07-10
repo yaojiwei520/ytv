@@ -13,3 +13,5 @@ tail -n 100
 # 查看文件前 20行内容
 head -n 20
 
+#筛选文本内的关键子并打印出txt
+grep -w "ftp" zhubo.txt >outupt.txt
